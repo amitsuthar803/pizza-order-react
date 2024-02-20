@@ -26,7 +26,7 @@ const router = createBrowserRouter([
     // define child route or nested route.
     children: [
       {
-        path: "/pizza-order-react",
+        path: "/pizza-order-react/",
         element: <Home />,
       },
       {
